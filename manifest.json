@@ -1,0 +1,10 @@
+{
+    "id": "daily-note-linker",
+    "name": "Daily Note Linker",
+    "version": "1.0.0",
+    "minAppVersion": "1.0.0",
+    "author": "Julian Baker",
+    "description": "Automatically links notes edited on a given day to the corresponding daily note.",
+    "isDesktopOnly": false
+  }
+  
